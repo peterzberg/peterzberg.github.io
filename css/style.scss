@@ -3,7 +3,8 @@
 
 $background-color: #f0f2f2;
 $font-color: #000;
-$header-font: 'Patua One', cursive;
+$header-font: 'Quicksand', sans-serif;
+
 
 body {
   margin-top: 60px;
@@ -18,6 +19,7 @@ body {
 
 .name-section {
   vertical-align: top;
+  color: #333A40;
   font-family: $header-font;
   font-size: 29px;
 }
